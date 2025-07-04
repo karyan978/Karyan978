@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi <img src="![hand](https://github.com/user-attachments/assets/3201f91a-dd2a-4554-a040-01ca075b8945)
+  Hi <img src="https://github.com/therahulkumar9/therahulkumar9/blob/3d793db043fe0a1c2ce5f5999a5bb75c390fe183/hand.gif
 " width="30px"> I'm 
   <a href="https://github.com/karyan978">Aryan Kumar</a>
 </h1>
