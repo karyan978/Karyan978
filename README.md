@@ -1,3 +1,5 @@
+<div backgroung-color="black" text-color="white">
+
 <h1 align="center">
   Hi <img src="https://github.com/therahulkumar9/therahulkumar9/blob/3d793db043fe0a1c2ce5f5999a5bb75c390fe183/hand.gif
 " width="30px"> I'm 
@@ -108,6 +110,7 @@
 </a>
 
 <div align="center">
+</div>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </div>
 
