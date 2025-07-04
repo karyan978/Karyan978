@@ -1,6 +1,6 @@
 <h1 align="center">
-  Hi <img src="https://github.com/therahulkumar9/therahulkumar9/blob/3d793db043fe0a1c2ce5f5999a5bb75c390fe183/hand.gif" width="30px"> I'm 
-  <a href="https://therahulkumar9.vercel.app/">Rahul Kumar</a>
+  Hi <img src="https://github.com/karyan978" width="30px"> I'm 
+  <a href="https://github.com/karyan978">Aryan Kumar</a>
 </h1>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Developer%20|%20Creator%20|%20Innovator&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30"/>
@@ -8,22 +8,22 @@
 <h2>🚀 Connect with Me</h2>
 
 <div align="center">
-  <a href="https://therahulkumar.dev/portfolio">
+  <a href="https://github.com/karyan978">
     <img src="https://img.icons8.com/color/48/000000/portfolio.png" alt="Website" width="40" height="40"/>
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/therahulkumar9">
+  <a href="https://www.linkedin.com/in/me/">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
   </a>&nbsp;&nbsp;
-  <a href="https://www.x.com/therahulkumar9">
+  <a href="https://www.linkedin.com/in/me/">
     <img src="https://img.icons8.com/color/48/000000/twitterx--v1.png" alt="Twitter" width="40" height="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/therahulkumar9/">
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>
   </a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@therahulkumar9">
+  <a href="https://www.linkedin.com/in/me/">
     <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" width="40" height="40"/>
   </a>
-   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=therahulkumar.dev@gmail.com">
+   <a href="https://www.linkedin.com/in/me/">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Mail" width="40" height="40"/>
   </a>&nbsp;&nbsp;
 </div>
@@ -37,7 +37,7 @@
   <li>🎯 Building projects to solve real-world problems.</li>
   <li>🤝 <strong>Open to collaborating with you</strong>.</li>
   <li>📄 Check out my <a href="https://drive.google.com/file/d/1aq2jWo_FwGCMmIF2VqkhihuO8pGjtuTJ/view?usp=sharing" target="_blank">resume</a>.</li>
-  <li>📫 Reach me on <a href="https://www.linkedin.com/in/therahulkumar9" target="_blank">LinkedIn</a> or <a href="https://twitter.com/therahulkumar9" target="_blank">Twitter</a>.</li>
+  <li>📫 Reach me on <a href="https://www.linkedin.com/in/me/" target="_blank">LinkedIn</a> or <a href="https://www.linkedin.com/in/me/" target="_blank">Twitter</a>.</li>
 </ul>
 
 <h2>
