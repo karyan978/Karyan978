@@ -2,14 +2,10 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F70000&width=435&lines=Strive->+Learn->+Develop.;MERN+Stack+Enthusiast;Problem+Solver;)
 
-I'm a passionate **Full Stack Developer** working with the **MERN Stack**, and I'm currently exploring the exciting fields of **Machine Learning**, **Deep Learning**, and **Generative AI**. 🌱
+I’m a passionate **Full Stack Developer** with a strong focus on modern, interactive web experiences. I specialize in building dynamic websites using both **frontend** and **backend** technologies, along with advanced **3D elements** to create immersive, visually engaging interfaces. From concept to deployment, I turn ideas into functional, creative web applications that stand out.
 
-**300+** DSA Problems Solved
 ## 🚀 Technologies & Tools I Use:
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
