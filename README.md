@@ -11,6 +11,8 @@ I’m a passionate **Full Stack Developer** with a strong focus on modern, inter
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 
 ### 🌐 What I Do
@@ -24,7 +26,7 @@ I’m a passionate **Full Stack Developer** with a strong focus on modern, inter
 🎯 If you have an idea or want a cool animated site, feel free to connect!
 
 📫 **Reach me at:** karyan4537@gmail.com 
-🌍 **Portfolio:** [your-website.com](http://aryan-red.vercel.app)
+🌍 **Portfolio:** [karyan.com](http://karyan-mu.vercel.app)
 
 
 ## 👀 Profile Views
