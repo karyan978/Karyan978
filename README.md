@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,python,nodejs,git,github,threejs,expo,firebase&theme=light" alt="tech icons" />
-
-  <!-- Custom static icons -->
-  <img src="https://example.com/lottie-icon.svg" alt="Lottie" width="30" height="30" />
-  <img src="https://example.com/fiverr-icon.svg" alt="Fiverr" width="30" height="30" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0000&height=200&section=header&text=K.ARYAN&fontSize=70&fontColor=ffffff&font=Orbitron&animation=twinkling&v=5" />
 </p>
 
 
