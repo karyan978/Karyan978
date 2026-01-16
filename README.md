@@ -77,13 +77,14 @@
 
 ## 🔥 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=karyan978&theme=radical&hide_border=true&border_radius=10" width="80%" />
-</p>
+## 🔥 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karyan978&layout=compact&theme=radical&hide_border=true" width="60%" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karyan978&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=karyan978&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karyan978&layout=compact&theme=radical)
+
 
 ---
 
