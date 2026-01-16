@@ -79,14 +79,17 @@
 
 ## 🔥 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karyan978&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karyan978&show_icons=true" width="90%"/>
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=karyan978&theme=radical)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=karyan978" width="90%"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karyan978&layout=compact&theme=radical)
-
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karyan978&layout=compact" width="90%"/>
+</p>
 
 ## 🌍 Connect With Me
 
