@@ -67,7 +67,7 @@
   <a href="https://www.linkedin.com/in/aryan-kumar-7b83732b5/">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
-  <a href="mailto:karyan.business@gmail.com">
+  <a href="mailto:karyan4537@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
   <a href="https://karyan-mu.vercel.app">
