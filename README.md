@@ -1,6 +1,11 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0000&height=200&section=header&text=K.ARYAN&fontSize=70&fontColor=ffffff&font=Orbitron&animation=twinkling" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,python,nodejs,git,github,threejs,expo,firebase&theme=light" alt="tech icons" />
+
+  <!-- Custom static icons -->
+  <img src="https://example.com/lottie-icon.svg" alt="Lottie" width="30" height="30" />
+  <img src="https://example.com/fiverr-icon.svg" alt="Fiverr" width="30" height="30" />
 </p>
+
 
 
 
@@ -63,10 +68,10 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/binayak-panda-94b7b5277">
+  <a href="https://www.linkedin.com/in/aryan-kumar-7b83732b5/">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
-  <a href="mailto:karyan4537@gmail.com">
+  <a href="mailto:karyan.business@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
   <a href="https://karyan-mu.vercel.app">
