@@ -1,63 +1,114 @@
-# Hi there, I'm Karyan 👋
+<h1 align="center">Hi 👋, I'm Karyan</h1>
+<h3 align="center">🚀 Full Stack Developer | Creative UI | 3D Web Experiences</h3>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F70000&width=435&lines=Full+Stack+Developer;Problem+Solver;)
-
-I’m a passionate **Full Stack Developer** with a strong focus on modern, interactive web experiences. I specialize in building dynamic websites using both **frontend** and **backend** technologies, along with advanced **3D elements** to create immersive, visually engaging interfaces. From concept to deployment, I turn ideas into functional, creative web applications that stand out.
-
-## 🚀 Technologies & Tools I Use:
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
-[![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev/)
-[![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev/)
-
-
-
-
-### 🌐 What I Do
-
-🚀 I build modern, interactive full-stack websites with stunning **3D effects** using technologies like **Three.js**, **GSAP**, and **React**.
-
-🧠 I specialize in creative UI/UX, animated web experiences, and immersive product/showcase websites.
-
-💥 I also offer **free 3D model websites** for small brands, startups, or personal projects — because I believe in growing together and giving back to the community.
-
-🎯 If you have an idea or want a cool animated site, feel free to connect!
-
-📫 **Reach me at:** karyan4537@gmail.com 
-🌍 **Portfolio:** [karyan.com](http://karyan-mu.vercel.app)
-
-
-## 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=batman-rises&color=blue)
-
-## 🔥 GitHub Streak
-<p class="text-center">
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=karyan978&theme=radical&card_width=600" alt="Aryan Kumar's GitHub Streak" />
-</a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Creative+Frontend;React+%7C+Three.js+%7C+GSAP" />
 </p>
-
-
-
-### 💻 Most Used Languages
-
-<a href="https://github.com/karyan978">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karyan978&layout=compact&theme=radical" />
-</a>
-
-
-## 🖥️ Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/binayak-panda-94b7b5277)
-
 
 ---
 
-![GIF](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
+## 🧠 About Me
 
+> I build **modern cinematic web experiences** with animation, motion, and interactivity.  
+> From UI design to backend logic — I turn ideas into powerful digital products.
+
+- 🎯 Focused on **Frontend + Animation + 3D Web**
+- 🚀 Love using **GSAP, Three.js, React**
+- 🤝 Offering **free websites for startups & small brands**
+- 🌍 Portfolio: https://karyan-mu.vercel.app  
+- 📫 Email: karyan4537@gmail.com
+
+---
+
+## ⚡ Tech Stack (All Clickable)
+
+<p align="center">
+
+<a href="https://react.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+</a>
+
+<a href="https://greensock.com/gsap/" target="_blank">
+  <img src="https://img.shields.io/badge/GSAP-000?style=for-the-badge&logo=greensock&logoColor=88CE02"/>
+</a>
+
+<a href="https://threejs.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Three.js-000?style=for-the-badge&logo=three.js&logoColor=white"/>
+</a>
+
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=3776AB"/>
+</a>
+
+<a href="https://reactnative.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/React%20Native-000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</a>
+
+<a href="https://expo.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/Expo-000?style=for-the-badge&logo=expo&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 🖥️ What I Build
+
+- 🎨 Cinematic animated websites  
+- 🧠 Interactive UI experiences  
+- 🌀 3D Web projects using Three.js  
+- 📱 Mobile apps using React Native + Expo  
+- ⚙️ Full-stack dashboards  
+- 🧩 Creative landing pages  
+
+---
+
+## 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=karyan978&theme=radical&hide_border=true&border_radius=10" width="80%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karyan978&layout=compact&theme=radical&hide_border=true" width="60%" />
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/binayak-panda-94b7b5277">
+  <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<a href="mailto:karyan4537@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+
+<a href="https://karyan-mu.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=karyan978&style=for-the-badge&color=red"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400"/>
+</p>
